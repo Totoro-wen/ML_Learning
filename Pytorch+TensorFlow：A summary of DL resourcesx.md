@@ -1,6 +1,6 @@
 # 传统机器学习
-=======
-## 感知器
+
+##  感知器
 -------
 
 TensorFlow 1：
@@ -8,7 +8,7 @@ https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic
 PyTorch：
 https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/perceptron.ipynb
 
-## 逻辑回归
+##  逻辑回归
 
 TensorFlow 1：
 https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/logistic-regression.ipynb
