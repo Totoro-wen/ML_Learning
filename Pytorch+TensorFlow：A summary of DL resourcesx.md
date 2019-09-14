@@ -12,6 +12,7 @@ https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/
 
 TensorFlow 1：
 https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/logistic-regression.ipynb
+
 PyTorch：
 https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/logistic-regression.ipynb
 
